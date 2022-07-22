@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning JavaScript from **LinkedIn learning and Udemy course**
-- 🔭 I’m currently working on avaScript Algorithms and Data Structures from **FreeCodeCamp**
+- 🔭 I’m currently working on JavaScript Algorithms and Data Structures from **FreeCodeCamp**
 - ✨ Completed Bay Valley Tech Code Academy and internship with OtterSoft as a full-stack Software Developer. 
 - ⚡ Graduated May, 2021.
 - 😄 Pronouns: **he/him**
